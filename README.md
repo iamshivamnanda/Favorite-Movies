@@ -15,5 +15,5 @@ Please make sure to update tests as appropriate.
 
 @Copyright Shivam Nanda
 
-[Click Here]: <https://shivamnanda436.github.io/Favorite-Movies/>
+[Click Here]: <https://iamshivamnanda.github.io/Favorite-Movies/>
 
